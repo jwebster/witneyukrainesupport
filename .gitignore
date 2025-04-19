@@ -9,3 +9,5 @@
 
 # Node modules if you add any build process later
 node_modules/
+/v1
+/download
